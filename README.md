@@ -1,9 +1,9 @@
 # Hi there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 <br />
-<a href="https://twitter.com/bboyaitsi">
+<a href="https://twitter.com/bboyaitsi" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/0x10000">
+<a href="https://www.linkedin.com/in/0x10000/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br /><br />
